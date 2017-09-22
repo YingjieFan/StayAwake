@@ -1,5 +1,5 @@
 # StayAwake
-An app to keep your device screen awake.
+An Android app to keep your device screen awake.
 
 The app use a toggle button to activate / stop the stay-awake mode. 
 When it's on, the device screen will not auto dim / turn off. 
