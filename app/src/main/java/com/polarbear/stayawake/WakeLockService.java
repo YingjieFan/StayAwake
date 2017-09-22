@@ -12,7 +12,7 @@ import android.widget.Toast;
 
 /**
  * Created by YingjieFan on 9/19/17.
- * This service will spin up a wake lock that keeps the device screen on.
+ * This service will spin up a wake lock foreground service that keeps the device screen on.
  */
 
 public class WakeLockService extends Service {
