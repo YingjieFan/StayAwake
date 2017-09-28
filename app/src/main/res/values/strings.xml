@@ -2,7 +2,7 @@
     <string name="app_name">StayAwake</string>
     <string name="start_wake_lock">Enable always on mode</string>
     <string name="notification_title">Wake Lock Status</string>
-    <string name="notification_message">Activated!</string>
+    <string name="notification_message">Screen will now stay awake!</string>
     <string name="ticker_text">Ticker text</string>
     <string name="saved_button_state">savedButtonToggleState</string>
 

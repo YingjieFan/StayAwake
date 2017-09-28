@@ -52,6 +52,7 @@ public class WakeLockService extends Service {
                         .setSmallIcon(R.drawable.lock)
                         .setContentIntent(pendingIntent)
                         .setTicker(getText(R.string.ticker_text))
+                        .setPriority(Notification.PRIORITY_MAX)
                         .build();
 
         startForeground(ONGOING_NOTIFICATION_ID, notification);
